@@ -1,0 +1,1 @@
+# example-aspcore-frontend-service
